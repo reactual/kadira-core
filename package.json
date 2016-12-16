@@ -1,5 +1,5 @@
 {
-  "name": "kadira-core",
+  "name": "@reactual/kadira-core",
   "version": "1.3.2",
   "description": "Kadira Core API",
   "main": "./dist/",
